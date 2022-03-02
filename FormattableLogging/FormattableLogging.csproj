@@ -4,6 +4,10 @@
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<Copyright>xljiulang</Copyright>
+		<PackageProjectUrl>https://github.com/xljiulang/FormattableLogging</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/xljiulang/FormattableLogging</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<Description>参数插值日志组件</Description>
 	</PropertyGroup>
 
 	<ItemGroup>
